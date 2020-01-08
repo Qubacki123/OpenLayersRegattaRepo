@@ -1,0 +1,2 @@
+# OpenLayersRegatta
+ OpenLayers Regatta Viewer
